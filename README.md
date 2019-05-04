@@ -170,3 +170,6 @@ https://github.com/xujunrt/Author-Disambiguation
 
 ## DBLP dataset api and preprocessing
 https://github.com/macks22/dblp
+
+## a new dataset from article "Data sets for author name disambiguation: an empirical analysis and a new resource"
+This is math paper datasets with author name, venue and title, but with out keywords, abstract, references and citations. In order to get clost to the practical problem asap, I am writing a web crawler to get other metadata from microsoft academic and my wos database. Once I finish this job, we can move on to test our algorithm.
