@@ -173,3 +173,8 @@ https://github.com/macks22/dblp
 
 ## a new dataset from article "Data sets for author name disambiguation: an empirical analysis and a new resource"
 This is math paper datasets with author name, venue and title, but with out keywords, abstract, references and citations. In order to get clost to the practical problem asap, I am writing a web crawler to get other metadata from microsoft academic and my wos database. Once I finish this job, we can move on to test our algorithm.
+
+文章作者回复了我的邮件，他将我的需求转达给了zbmath官方，等待后续进展
+
+- doc2vec doublet.model 
+- doc2vec doublet.model
